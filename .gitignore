@@ -1,2 +1,5 @@
 # Virtualenv
 .venv
+
+# IPython
+.ipynb_checkpoints/
